@@ -2,4 +2,4 @@
 
 Ruby on rails playground setup.
 Right now used just for versioning of my work but feel free to use the
-[original guide link](http://guides.rubyonrails.org/getting_started.html)
+[original guide](http://guides.rubyonrails.org/getting_started.html)

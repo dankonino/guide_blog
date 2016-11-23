@@ -1,7 +1,5 @@
 == README
 
 Ruby on rails playground setup.
-Right now used just for versioning of my work but feel free to use the [original](http://guides.rubyonrails.org/getting_started.html) guide to understand my current progress.
-
-
-<tt>rake doc:app</tt>.
+Right now used just for versioning of my work but feel free to use the
+[original guide](http://guides.rubyonrails.org/getting_started.html)

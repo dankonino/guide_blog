@@ -1,4 +1,4 @@
-== README
+# README
 
 Ruby on rails playground setup.
 Right now used just for versioning of my work but feel free to use the
